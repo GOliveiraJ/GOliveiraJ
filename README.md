@@ -5,7 +5,7 @@ Olá! Eu sou o Gabriel de Oliveira Jesus. Sou estudante de Ciência da Computaç
 Tenho uma paixão genuína por construir soluções que transformam processos manuais exaustivos em fluxos ágeis e inteligentes, permitindo que as equipes foquem no que realmente importa: análise e estratégia.
 
 * Desenvolvo robôs para raspagem de dados web e extração de metadados em documentos complexos (PDFs/OCR).
-* Construo aplicações web analíticas interativas com foco em experiência do usuário e sincronização em nuvem.
+* * Construo aplicações web analíticas e robôs inteligentes, integrando Automação (RPA) com Inteligência Artificial para análise de sentimentos, classificação de riscos e extração avançada de textos (OCR e LLMs).
 * Transformo dados brutos em inteligência de negócio utilizando painéis de BI e modelagem avançada.
 * Busco sempre aliar o rigor técnico com entregas de alto impacto corporativo.
 
@@ -18,7 +18,8 @@ Tenho uma paixão genuína por construir soluções que transformam processos ma
 | **Linguagens** | Python, Java, SQL, JavaScript, HTML/CSS |
 | **Dados & BI** | Pandas, Power BI, DAX, Excel Avançado (OpenPyXL) |
 | **Automação & RPA** | Selenium, Playwright, PyPDF2, Pytesseract (OCR) |
-| **Web & Banco de Dados**| Streamlit, Supabase, APIs Rest, Git/GitHub |
+| **Inteligência Artificial** | Integração com LLMs (OpenAI/Gemini), Processamento de Linguagem Natural (NLP), LangChain |
+| **Web & Bancos** | Streamlit, Supabase, APIs Rest, Git/GitHub |
 
 ---
 
