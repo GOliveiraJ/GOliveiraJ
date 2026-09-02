@@ -15,7 +15,7 @@ Tenho uma paixão genuína por construir soluções que transformam processos ma
 
 | Categoria | Ferramentas e Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Python, Java, SQL, JavaScript, HTML/CSS |
+| **Linguagens** | Python, SQL, JavaScript, HTML/CSS |
 | **Dados & BI** | Pandas, Power BI, DAX, Excel Avançado (OpenPyXL) |
 | **Automação & RPA** | Selenium, Playwright, PyPDF2, Pytesseract (OCR) |
 | **Inteligência Artificial** | Integração com LLMs (OpenAI/Gemini), Processamento de Linguagem Natural (NLP), LangChain |
