@@ -10,8 +10,11 @@ Estudante de \*\*Ciência da Computação na UERJ\*\* (6º período) com \*\*1 a
 Meu foco de engenharia está na \*\*construção de pipelines resilientes de dados, arquiteturas de automação (RPA) e microsserviços de backend\*\*, conectando o tratamento massivo de dados brutos e documentos não estruturados a modelos analíticos e interfaces de decisão:
 
 \* 🏗️ \*\*Pipelines &amp; Ingestão de Dados:\*\* Desenvolvimento de rotinas em lote, paralelismo (\`ThreadPoolExecutor\`) e OCR (\`PyTesseract\`) para extração e sanitização de dados regulatórios em larga escala. 
+
 \* 🤖 \*\*RPA &amp; Automação Web:\*\* Criação de robôs (\`Playwright\`, \`Selenium\`) para web scraping, coleta contínua e sincronização bidirecional entre portais públicos e bancos relacionais. 
+
 \* 🧠 \*\*IA Aplicada &amp; LLMs:\*\* Integração de modelos de linguagem locais (\`LLaMA 3.2\` via \`Ollama\`, \`LangChain\`), análise contextual semântica/NLP e motores de triagem com \*human-in-the-loop\*. 
+
 \* 📊 \*\*Analytics &amp; BI:\*\* Modelagem de dados, acompanhamento de indicadores operacionais (KPIs) e dashboards dinâmicos em \`Power BI (DAX)\` e \`Streamlit\`.
 
 \---
@@ -56,5 +59,7 @@ Meu foco de engenharia está na \*\*construção de pipelines resilientes de dad
 <p></p>
 
 \### 💬 Vamos Conversar?
+
 \* 💼 \*\*LinkedIn:\*\* [linkedin.com/in/gabriel-jesus-289b57312](https://linkedin.com/in/gabriel-jesus-289b57312)
+
 \* ✉️ \*\*Email:\*\* [gabbriel.jesus000@gmail.com](mailto:gabbriel.jesus000@gmail.com)
