@@ -2,7 +2,9 @@
 ### \*\*Engenharia de Dados | Automação de Processos (RPA) | Inteligência de Software\*\*
 
 [![LinkedIn]([suspicious link removed])](https://linkedin.com/in/gabriel-jesus-289b57312) 
+
 [![Gmail]([suspicious link removed])](mailto:gabbriel.jesus000@gmail.com) 
+
 [![Portfolio]([suspicious link removed])](https://github.com/GOliveiraJ)
 
 \--- 
